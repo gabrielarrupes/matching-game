@@ -1,0 +1,10 @@
+
+.card-box {
+    height: 236px;
+    width: 136px;
+    cursor: pointer;
+}
+
+.card-box:hover {
+    transform: scale(1.1);
+}
